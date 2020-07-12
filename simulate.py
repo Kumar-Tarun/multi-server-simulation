@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 pd.set_option("display.precision", 3)
+
 # M/M/s : FCFS/infi/infi
 n = input("Enter the number of seconds for simulation: ")
 n = float(n)
